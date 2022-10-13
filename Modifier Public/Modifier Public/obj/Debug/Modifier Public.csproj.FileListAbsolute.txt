@@ -1,0 +1,7 @@
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\bin\Debug\Modifier Public.exe.config
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\bin\Debug\Modifier Public.exe
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\bin\Debug\Modifier Public.pdb
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\obj\Debug\Modifier Public.csproj.AssemblyReference.cache
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\obj\Debug\Modifier Public.csproj.CoreCompileInputs.cache
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\obj\Debug\Modifier Public.exe
+C:\Users\ditha\Pictures\ryan\vs\Modifier Public\Modifier Public\Modifier Public\obj\Debug\Modifier Public.pdb

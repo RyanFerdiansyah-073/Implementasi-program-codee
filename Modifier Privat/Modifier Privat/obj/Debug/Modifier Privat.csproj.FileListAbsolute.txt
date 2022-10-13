@@ -1,0 +1,6 @@
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\bin\Debug\Modifier Privat.exe.config
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\bin\Debug\Modifier Privat.exe
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\bin\Debug\Modifier Privat.pdb
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\obj\Debug\Modifier Privat.csproj.CoreCompileInputs.cache
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\obj\Debug\Modifier Privat.exe
+C:\Users\ditha\Pictures\ryan\vs\Modifier Privat\Modifier Privat\obj\Debug\Modifier Privat.pdb

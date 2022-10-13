@@ -1,0 +1,6 @@
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\bin\Debug\Destructor.exe
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\bin\Debug\Destructor.pdb
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\obj\Debug\Destructor.exe
+C:\Users\ditha\Pictures\ryan\vs\Destructor\Destructor\obj\Debug\Destructor.pdb

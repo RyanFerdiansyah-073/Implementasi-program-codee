@@ -1,0 +1,6 @@
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\bin\Debug\My Application.exe.config
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\bin\Debug\My Application.exe
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\bin\Debug\My Application.pdb
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\obj\Debug\My Application.csproj.CoreCompileInputs.cache
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\obj\Debug\My Application.exe
+C:\Users\ditha\Pictures\ryan\vs\My Application\My Application\obj\Debug\My Application.pdb

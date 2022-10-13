@@ -1,0 +1,7 @@
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\bin\Debug\Constructorr.exe.config
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\bin\Debug\Constructorr.exe
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\bin\Debug\Constructorr.pdb
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\obj\Debug\Constructorr.csproj.AssemblyReference.cache
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\obj\Debug\Constructorr.csproj.CoreCompileInputs.cache
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\obj\Debug\Constructorr.exe
+C:\Users\ditha\Pictures\ryan\vs\Constructorr\Constructorr\obj\Debug\Constructorr.pdb
